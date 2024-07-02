@@ -1,0 +1,12 @@
+10
+Xiaomi_Redmi_12         14999         Xiaomi       2022        Андроид                
+Realme_C55                   20999         Realme       2023        Блэкберри_OS
+HONOR_X9b                 30999         Huawei        2019       Андроид
+Samsung_Galaxy_A15   16999         Samsung      2018       Блэкберри_OS
+Realme_C51                    7999            Realme       2020        Андроид
+Iphone_15                       102999       Apple           2023       IOS
+Xiaomi_Redmi_A2         5999            Xiaomi        2021       Андроид
+Realme_Note_50            6999            Realme         2024      Блэкберри_OS
+Iphone_14                       87999          Apple            2022     IOS
+Samsung_Galaxy_A54    29999          Samsung       2020     Андроид
+
